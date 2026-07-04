@@ -81,7 +81,7 @@ Modern responsive website built using:
 
 ![](https://github-readme-stats.vercel.app/api?username=bakdaulet-bokenbayev&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=bakdaulet-bokenbayev&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=bakdaulet-bokenbayev&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bakdaulet-bokenbayev&layout=compact&theme=tokyonight)
 
